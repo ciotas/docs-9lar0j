@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-ib05zv.louvre-live.com/sitemap.xml
